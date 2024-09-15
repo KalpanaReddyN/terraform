@@ -4,9 +4,11 @@ Below is the environment setup.
 
 Softwares Required:
 
-VS Code
-Terraform
-AWS CLI V2
+  VS Code
+
+  Terraform
+
+  AWS CLI V2
 
 Steps:
 
