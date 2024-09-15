@@ -42,16 +42,16 @@ Modular Infra:
 Code reuse. We can develop our own modules our use open source modules to reuse the infra code. instead of spending more time to create infra from the scratch we can reuse modules.
 
 
-Terraform Commands
+Terraform Commands:-
 
 First command is to initialize the terraform, at this stage terraform downloads the provider into .terraform folder.
 
-terraform init
+  terraform init
 
 Next we need to run plan command, at this stage terraform compares the infra between declared and existing. This is only plan terraform will not create
 
-terraform plan
+  terraform plan
 
 Next we need to apply the infra, at this stage terraform create the infra with approval.
 
-terraform apply
+  terraform apply
